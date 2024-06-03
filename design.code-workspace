@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../html-css-course/intro"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "intro"
+	}
+}
